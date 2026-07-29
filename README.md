@@ -1,2 +1,2 @@
-# anota-o-ads
+# anotacao
 Anotações sobre a aula 2026 ADS
