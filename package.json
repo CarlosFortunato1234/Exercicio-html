@@ -1,0 +1,24 @@
+{
+  "name": "anotacao-ads",
+  "version": "1.0.0",
+  "description": "Minha primeira API",
+  "homepage": "https://github.com/CarlosFortunato1234/Exercicio-html#readme",
+  "bugs": {
+    "url": "https://github.com/CarlosFortunato1234/Exercicio-html/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosFortunato1234/Exercicio-html.git"
+  },
+  "license": "ISC",
+  "author": "Carlos Daniel",
+  "type": "module",
+  "main": "teste.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index5.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
